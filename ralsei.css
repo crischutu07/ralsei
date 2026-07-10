@@ -1,6 +1,6 @@
-#pixelate {
-  image-rendering: pixelated
-}
 html {
   background: black
+}
+#pixelate {
+  image-rendering: pixelated
 }
